@@ -36,4 +36,5 @@ Start server
 ```deactivate```
 
 ```pip freeze > requirementst.txt```
+
 [Create .gitignore](https://www.toptal.com/developers/gitignore/)
